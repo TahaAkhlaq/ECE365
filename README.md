@@ -9,6 +9,9 @@ For course details, visit the [course page](http://faculty.cooper.edu/sable2/cou
 ### Course Description
 A continuation of ECE 264, also with an emphasis on practical implementation issues and good programming methodology. Topics include graphs, graph-related algorithms and dynamic programming techniques. Also an introduction to some advanced topics such as Turing machines, computability and NP-complete systems.
 
+##Projects
+- **[Project 1](Project1/)**:
+
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
 
