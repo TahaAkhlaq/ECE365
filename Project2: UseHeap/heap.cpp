@@ -10,7 +10,7 @@
 
 #include "heap.h"
 
-#include <climits> 
+#include <climits>
 #include <iostream>
 
 using namespace std;
@@ -128,6 +128,7 @@ void heap::percolateUp(int posCur) {
   while (posCur > 1 && tmp.key < data[posCur / 2].key) {
     data[posCur] = data[posCur / 2];
     mapping->setPointer(data[posCur].id, &data[posCur]);
+    posCur /= 2; // Correctly update posCur
   }
   data[posCur] = tmp;
   mapping->setPointer(tmp.id, &data[posCur]);
