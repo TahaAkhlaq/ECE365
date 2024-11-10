@@ -9,8 +9,10 @@ For course details, visit the [course page](http://faculty.cooper.edu/sable2/cou
 ### Course Description
 A continuation of ECE 264, also with an emphasis on practical implementation issues and good programming methodology. Topics include graphs, graph-related algorithms and dynamic programming techniques. Also an introduction to some advanced topics such as Turing machines, computability and NP-complete systems.
 
-## Projects
+- ## Projects
 - **[Project 1](Project1%3A%20SpellCheck/)**: A program that uses a custom hash table to spell check a document by comparing it against a dictionary.
+- **[Project 2](Project2%3A%20UseHeap/)**: A program that implements a binary heap to efficiently manage elements with unique IDs and keys in a priority queue.
+- **[Project 3](Project3%3A%20Dijkstra's%20Algorithm%20Implementation/)**: A program that uses custom heap and hash table classes to implement Dijkstra's algorithm for finding shortest paths in a graph.
 
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
