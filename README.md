@@ -13,6 +13,7 @@ A continuation of ECE 264, also with an emphasis on practical implementation iss
 - **[Project 1](Project1%3A%20SpellCheck/)**: A program that uses a custom hash table to spell check a document by comparing it against a dictionary.
 - **[Project 2](Project2%3A%20UseHeap/)**: A program that implements a binary heap to efficiently manage elements with unique IDs and keys in a priority queue.
 - **[Project 3](Project3%3A%20Dijkstra/)**: A program that uses custom heap and hash table classes to implement Dijkstra's algorithm for finding shortest paths in a graph.
+- **[Project 4](Project4%3A%20Merge/)**: A program that uses recursive depth-first search with memoization to determine if a string is a valid merge of two others, outputting the merged string with characters from the first string capitalized when a valid merge is found.
 
 ## Copyright & Licensing
 Copyright (C) 2024 Taha Akhlaq <[takhlaq04@gmail.com](mailto:takhlaq04@gmail.com)>
